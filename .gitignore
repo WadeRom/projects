@@ -1,0 +1,16 @@
+# Ignorar dependencias de Node
+node_modules/
+
+# Ignorar salidas de construcción
+dist/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar carpetas específicas de cada proyecto
+project1/node_modules/
+project1/dist/
+project2/node_modules/
+project2/dist/
+project3/node_modules/
+project3/dist/
