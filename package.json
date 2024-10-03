@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "start:project1": "cd project1 && npm run dev",
-    "start:project2": "cd project2 && npm run dev",
-    "start:project3": "cd project3 && npm run dev"
+    "start:part1": "cd part1 && npm run dev",
+    "start:part2": "cd part2 && npm run dev",
+    "start:part3": "cd part3 && npm run dev"
   }
 }
